@@ -23,6 +23,7 @@
 # If you add a folder to 'ordering', be sure to add a corresponding entry
 # in the 'folders' map below.
 ordering:
+- Platform X 22.11.2019
 - Introduction
 - Guides
 - API Reference
