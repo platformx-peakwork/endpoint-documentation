@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with PlatformX 2
 ---
 
 ### Before you begin
