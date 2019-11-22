@@ -1,7 +1,7 @@
-# Getting Started
+# Getting Started wit PlatformX
 ---
 
-### Before you begin
+### Before you begin 
 1. Create a new [Cloud Platform project](https://console.developers.google.com/projectcreate).
 2. [Enable billing](https://cloud.google.com/billing/docs/how-to/modify-project#enable_billing_for_a_project) for your project.
 
