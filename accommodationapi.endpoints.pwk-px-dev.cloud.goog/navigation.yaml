@@ -36,6 +36,7 @@ folders:
     # The add_example_page script will add a page named 'Example Page' here.
     # https://cloud.google.com/endpoints/docs/openapi/dev-portal-add-custom-docs
     ordering:
+    - PlatformX
     - Getting Started
     - Example Page
     
