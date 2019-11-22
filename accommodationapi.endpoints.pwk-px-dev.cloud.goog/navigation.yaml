@@ -23,7 +23,6 @@
 # If you add a folder to 'ordering', be sure to add a corresponding entry
 # in the 'folders' map below.
 ordering:
-- Platform X 22.11.2019
 - Introduction
 - Guides
 - API Reference
@@ -35,7 +34,8 @@ folders:
     # this folder's configuration.
     # In this example, there is only a 'Getting Started' page and no sub-folders.
     # The add_example_page script will add a page named 'Example Page' here.
+    # https://cloud.google.com/endpoints/docs/openapi/dev-portal-add-custom-docs
     ordering:
     - Getting Started
     - Example Page
-    - https://cloud.google.com/endpoints/docs/openapi/dev-portal-add-custom-docs
+    
