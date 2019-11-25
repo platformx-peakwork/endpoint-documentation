@@ -37,4 +37,5 @@ folders:
     # https://cloud.google.com/endpoints/docs/openapi/dev-portal-add-custom-docs
     ordering:
     - PlatformX
+    - Internal Developer Page
     
