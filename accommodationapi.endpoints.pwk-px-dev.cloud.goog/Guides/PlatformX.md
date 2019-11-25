@@ -1,8 +1,7 @@
 # Getting Started
 ---
 
-
-###The Vision
+### The Vision
 
     PlatformX is the platform  
 
