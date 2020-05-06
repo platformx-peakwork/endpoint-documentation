@@ -1,4 +1,4 @@
-
+ 
 # The Vision  
 PlatformX is the platform for **suppliers** and **tour operators**  
 who want to use **high performance cache systems** to **distribute travel offers**  
