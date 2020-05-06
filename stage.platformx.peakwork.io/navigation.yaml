@@ -1,0 +1,12 @@
+ordering:
+- Introduction
+- Guides
+- API Reference
+- Resources
+
+folders:
+  Guides:
+    ordering:
+    - PlatformX
+    - Internal Developer Page
+    
