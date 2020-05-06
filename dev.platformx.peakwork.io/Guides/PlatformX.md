@@ -7,18 +7,18 @@ while staying in **control over their respective portfolios**
 
 # For Accommodation Suppliers
 ## One API to enter the Peakwork Network
-The Peakwork Network consists of numerous different tour operator players that need to be fed with data. Currently, there needs to be a separate data delivery for every redistributor or tour operator in the Peakwork Network, even if some offers might be identical. 
+The Peakwork Network consists of numerous different tour operator players that need to be fed with data. With EDF, there needs to be a separate data delivery for every redistributor or tour operator in the Peakwork Network, even if some offers might be identical. 
 With PlatformX, accommodation suppliers are enabled to send every offered accommodation to the Peakwork Network **only once** by using PlatformX' public API, regardless of how many redistributors may use those offers.
 
 ## Minimize Time-to-Market
-Current cache data production processes rely on batch data deliveries and batch processing of said data. This regularly leads to unnecessary long production times. 
+The majority cache data production processes rely on batch data deliveries and batch processing of said data. This regularly leads to unnecessary long production times. 
 PlatformX sets out to heavily **shorten offers' time-to-market** by accepting single accommodation updates from the accommodation supplier's inventory systems just as they occur and **directly stream offers** to authorized redistributors or tour operators.
 
 ## Control your portfolio within the Peakwork Network.
 With PlatformX, accommodation suppliers are enabled to lodge information like point-of-sale (i.e. which market should an offer be sold in) and allowed distribution channgels (i.e. tour operator to end-customer / meta searcher to end-customer) and product tpye (e.g. hotel-only vs. package). It is no longer necessary to create multiple data deliveries to convey this kind of information. But how your offer's may be used is explicetely defined in PlatformX' data format.
 
 ## Easily connect to the Peakwork Network and to tour operators
-PlatformX' data format was created as straight-forward and easy-to-implement as possible while respecting key features in the tourism industry and the way how offer data is currently handled in inventory systems.
+PlatformX' data format was created as straight-forward and easy-to-implement as possible while respecting key features in the tourism industry and the way how offer data is handled in inventory systems.
 In the past, connecting a data feed to a tour operator typically included setting up a project. With PlatformX, connection to a tour operator can be established with a simple click and the integration may then be achieved by iterating from there.
 
 # First Steps
@@ -51,7 +51,7 @@ Please note that rooms, boards and rates do not denote specific rooms in specifi
 ### Offer Data  
 Accommodation Offer Data represents the price structure definition which references the entities defined in the Accommodation Base Data.
 Offer Data describes for **which price** specific combinations of room, board, length of stay, number of occupants, rate type are available.
-Currently, it is possible to transmit all offers of one accommodation contract to PlatformX in **one call**. 
+All offers of one accommodation contract shall be transmitted to PlatformX in **one call**. 
 ​
 While the PlatformX format was designed to be as straight-forward as possible, it still allows to accommodate sophisticated and flexible price structures, such as:
 * arrival-based **and** daily prices
@@ -68,7 +68,6 @@ Allotment Data describes **how many** specific offers are available to the tour 
 ​
 ## Getting started  
 The API definition can be found on the sub pages in the navigation on the left.  
-
 A basic example implementation using Java/Maven and the prerequisites to send data to the API can be found here: [INSERT LINK TO GITHUB REPOSITORY]​
 
 
