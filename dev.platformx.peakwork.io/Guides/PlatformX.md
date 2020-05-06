@@ -60,6 +60,7 @@ While the PlatformX format was designed to be as straight-forward as possible, i
 * age-range dependend prices like child-prices 
 * assigning prices to the n-th person of a certain age-range 
 ​
+
 Transmitting single offers or multiple single offers to PlatformX in one API call is currently being investigated.
 ​
 ### Allotment Data (coming soon)  
